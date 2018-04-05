@@ -17,7 +17,7 @@ android {
      */
     publishNonDefault true
     defaultConfig {
-        applicationId "net.majorkernelpanic.example1"
+        applicationId "net.majorkernelpanic.example3"
         minSdkVersion 14
         targetSdkVersion 21
     }
