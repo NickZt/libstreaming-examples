@@ -18,3 +18,14 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+# Android Studio
+*.iml
+.gradle
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/gradle.properties
