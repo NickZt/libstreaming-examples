@@ -1,2 +1,3 @@
+include ':example1'
 include ':example2'
 include ':libstreaming'
